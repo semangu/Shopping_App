@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f4b6f9f-0578-40ab-90f0-d8e896274ccf" width="250" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/ef9ed0d3-f7f5-45a6-bb3a-61909335b875" width="250" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/3f24318a-4696-4ef6-b08f-8fe683b1bf3b" width="250" />
+</p>
+
 # shop_app
 
 Flutter ile geliştirilmiş basit bir ayakkabı alışveriş uygulaması.
